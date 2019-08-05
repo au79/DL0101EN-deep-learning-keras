@@ -3,5 +3,7 @@
 \#*#
 *~
 
-# IntelliJ config
+# Config directories
 .idea
+.ipynb_checkpoints
+
